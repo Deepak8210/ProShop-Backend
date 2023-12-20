@@ -10,7 +10,7 @@
     "start": "node backend/server.js",
     "di": "node backend/seeders.js",
     "dd": "node backend/seeders.js -d",
-    "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
+    "build": "npm install"
   },
   "author": "deepak kumar",
   "license": "ISC",
